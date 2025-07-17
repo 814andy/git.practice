@@ -5,3 +5,6 @@ name은 보통 origin을 사용한다.
 git push <name> <branch>
 git push origin master
 내 저장소의 변경 내역(commit)들을 원격에 푸시(push)한다.
+
+git clone <url>
+저장소를 복제해 온다.
