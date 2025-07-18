@@ -14,3 +14,5 @@ git log
 여태까지 변경 내역들 확인
 
 추가적으로 넣음
+
+https://github.com/814andy/git.practice.git
