@@ -1,0 +1,53 @@
+# 제목 
+## 제목들
+### 제목3
+---
+## 목록
+
+- 가래떡
+- 고추장
+    - 고추
+    - 된장
+- 파
+- 양파
+- 어묵
+---
+1. 일어나서
+2. 아침먹고
+    - 샤워하기
+3. 안녕
+---
+## Code block
+코드를 코드처럼 표현하는 방법
+```
+mkdir foo
+cd fruit
+```
+
+벡틱(`) 3개를 사용하여 가둬주면 됨
+
+글귀 안에 코드를 표현하고 싶다면 벡틱 하나 쓰기
+`print` 이런 식으로 써주기
+---
+## 링크
+```
+markdown
+[google](https://google.com)
+```
+[google](https://google.com)
+이렇게 하면 바로 사이트로 이동 가능
+
+## 이미지
+```markdown
+[이미지](홍명보.webp)
+[이미지](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/yt/2025/07/16/PYH2025071520490001300_P2.jpg)
+```
+[이미지](홍명보.web)
+[이미지](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/yt/2025/07/16/PYH2025071520490001300_P2.jpg)
+---
+## 그 외
+**굵게**
+*기울임*
+~~취소선~~
+
+**오늘 배운 내용 기억하면서 공부하기**
